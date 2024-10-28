@@ -1,4 +1,4 @@
-This is a simple BMI Calculator. 
+<h1>This is a simple BMI Calculator.</h1> 
 
 1. Run the program
 
